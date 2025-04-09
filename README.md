@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on, me myself and i for the moment 
 - 📫 How to reach me : firasmzali.contact@gmail.com
-- ⚡ Fun fact: if you don't ask dumb questions, you'll be dumb.
+- ⚡ Fun fact: if you don't ask dumb questions, you're dumb.
 
 <!---
 FirasMzalios/FirasMzalios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
